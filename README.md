@@ -7,3 +7,5 @@ The model is trained to identify customers likely to churn and provides actionab
 To make the project more practical and interactive, the final model is deployed using Streamlit, allowing users to input customer data and receive real-time churn predictions through a user-friendly web interface.
 
 This project demonstrates both technical and business understanding of churn analysis, making it suitable for real-world applications.
+
+Dataset Link: https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis
